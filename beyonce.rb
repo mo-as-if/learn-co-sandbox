@@ -1,0 +1,1 @@
+puts "There are #{number_of_attendees}"
